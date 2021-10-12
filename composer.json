@@ -1,0 +1,17 @@
+{
+    "name": "alvianrizky/kalkulator",
+    "description": "Percobaan membuat kalkulator",
+    "license": "SDLRN",
+    "authors": [
+        {
+            "name": "Alvian Rizky",
+            "email": "alvianrizky62@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Alvianrizky\\Kalkulator\\": "src/"
+        }
+    }
+}
